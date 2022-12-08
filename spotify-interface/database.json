@@ -1,0 +1,28 @@
+{
+    "users": {
+        "-1": {
+            "sp_token": {
+                "auth_code": "",
+                "refresh_token": "",
+                "access_token": "",
+                "expires_at": ""
+            }
+        },
+        "0": {
+            "sp_token": {
+                "auth_code_random_state_string": "",
+                "code": "AQArsjbzSLp23RidsEctcKg6pzjuNv6Qc4mIsv9Gi1QH54N5M4ssBinO8BebdTp2Uy4o5KnZhzUZmvPod-msTgoLV3p9N-OwgHch6sJmM4N6q5bUpM_o3FSVGPM5QXnaM5euI-YBzo-vUvCPlL5rOCn7amHWfBIHGLZUpC0Od9U32b1E5tzrtsexqozQIZKGqhtV7HEB3SBxQbYZW2A1JwdJFkkSJf5BnSa-h4L_Iv5iqx0UYLH9jDYkqYN9TgzGteSbPwtDGLIiTCE1aCN646bBkTWOdLebOvvktnFWmh4Xhk2wu6AOhG6qU7Pag_EPGmozx7mXjZXd1xIsY1U0mefKLM_kcXAGTscI9A-k5u5-BRBRGKqTLKzLLPZffjhg2dudj53UMx6MDuHI-Q7Gh4nkXhdmzkuWbMeiLhpwaYcNpdeG99bil41_ZshBFD2N6_ED-u6pnx5S0KPe_UcaduUKEXJX1bwUoaVvlAqeGgi7Fh8UWyPTh7LE5KN3EZzcecdYaIxeBBRdP3lnn8fWQe6M_xoPVLs",
+                "access_token": "BQD7YS3DfmA4DAH819tcXe1bP8FnORmsIvaOUQlJaB18zSsjakiZZXRdUHzqy87bGecsqhEbpySUw5M26Yf1VgA6-g0pex4N150Ed8Oq5Onhsgbz5UignCpIRhXphwRo07Ekh64RiqHgHzg9JedvhOVjl6RDjz5BqQSnesKW8OxmPOmhn6Gkm-g99zrEJHH6fMA6MF7AmJJ5W6ukSfrG_BRnh4w_m-4El9PN-Ty6MBJeeTcX9ArFzSs0j_Ihsps0Fud9ONteqQVsYqRtkhJpVjgahYolLzHhPisDjXJVbU66bf9wAW3x_MXJrA",
+                "refresh_token": "AQD_P4jljo7JHJMMlKHFvIEyP_KwOH87VZ-LJpYn7rJPXNP9ODVnHSX85Pg_mUBGemurty4-ddt6s6mvTguNKsa3HArv9FcWI5GlmptKZPaIRmQzhbjPoJx1VW5VVRATO_4",
+                "expires_at": "2022-12-08 18:35:05.428161",
+                "scope": "playlist-read-private app-remote-control user-modify-playback-state user-library-read user-follow-read playlist-modify-private playlist-modify-public user-read-playback-state user-read-currently-playing user-read-recently-played user-read-private user-top-read"
+            }
+        }
+    },
+    "sessions": {
+        "0": {
+            "session_id": "",
+            "users": []
+        }
+    }
+}
